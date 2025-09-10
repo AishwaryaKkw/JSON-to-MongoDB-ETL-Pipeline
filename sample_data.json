@@ -1,0 +1,79 @@
+[
+  {
+    "order_id": 101,
+    "customer": "Alice",
+    "items": [
+      {"product": "Treadmill", "qty": 1, "price": 60000},
+      {"product": "Resistance Bands", "qty": 2, "price": 500}
+    ]
+  },
+  {
+    "order_id": 102,
+    "customer": "Bob",
+    "items": [
+      {"product": "Dumbells", "qty": 1, "price": 1500},
+      {"product": "Weightlifting Belt", "qty": 2, "price": 12000}
+    ]
+  },
+  {
+    "order_id": 103,
+    "customer": "Alice",
+    "items": [
+      {"product": "Yoga Mat", "qty": 1, "price": 2000}
+    ]
+  },
+  {
+    "order_id": 104,
+    "customer": "Charlie",
+    "items": [
+      {"product": "Spin Bike", "qty": 1, "price": 25000},
+      {"product": "Skipping rope", "qty": 1, "price": 700}
+    ]
+  },
+  {
+    "order_id": 105,
+    "customer": "Diana",
+    "items": [
+      {"product": "Gym Bench", "qty": 2, "price": 14000},
+      {"product": "Yoga Mat", "qty": 1, "price": 2000}
+    ]
+  },
+  {
+    "order_id": 106,
+    "customer": "Bob",
+    "items": [
+      {"product": "Treadmill", "qty": 1, "price": 60000},
+      {"product": "Yoga Mat", "qty": 1, "price": 2000}
+    ]
+  },
+  {
+    "order_id": 107,
+    "customer": "Eve",
+    "items": [
+      {"product": "Gym Bench", "qty": 1, "price": 14000}
+    ]
+  },
+  {
+    "order_id": 108,
+    "customer": "Charlie",
+    "items": [
+      {"product": "Skipping rope", "qty": 1, "price": 700},
+      {"product": "Dumbells", "qty": 1, "price": 1500}
+    ]
+  },
+  {
+    "order_id": 109,
+    "customer": "Alice",
+    "items": [
+      {"product": "Weightlifting Belt", "qty": 1, "price": 12000}
+    ]
+  },
+  {
+    "order_id": 110,
+    "customer": "Diana",
+    "items": [
+      {"product": "Resistance Bands", "qty": 3, "price": 500},
+      {"product": "Yoga Mat", "qty": 2, "price": 2000}
+    ]
+  }
+]
